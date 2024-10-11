@@ -17,7 +17,7 @@ root = Tk()
 root.title("Milhas para KM")
 
 #Gerando loop para renderização interminente
-root.mainloop()
+#root.mainloop()
 
 #Criando nosso container <div></div>
 mainframe = ttk.Frame(root, padding="3 3 12 12")
